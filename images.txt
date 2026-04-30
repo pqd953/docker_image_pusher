@@ -1,2 +1,1 @@
-stardew-init
-stardew-manager
+alpine
